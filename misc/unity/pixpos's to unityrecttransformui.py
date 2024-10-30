@@ -1,0 +1,5 @@
+x      = int(input("target x: "))
+y      = int(input("target y: "))
+width  = int(input("width: "))
+height = int(input("height: "))
+print(f"put pos x as {x + width / 2 - 1920 / 2} - put pos y as {y - height / 2 + 1080 / 2}")

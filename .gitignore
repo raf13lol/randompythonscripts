@@ -1,0 +1,13 @@
+# i think these scripts might be a bit Er hm uh righto
+gitignore/*
+
+# generated things
+imagestuff/image.png
+misc/ciphered.png
+misc/serverprober/*
+misc/texturepacking/*.png
+
+# thingy
+misc/rtthingsolver/__pycache__/*
+misc/rtthingsolver/node_modules/*
+misc/rtthingsolver/*.mid
